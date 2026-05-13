@@ -1,0 +1,22 @@
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Build outputs
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# Azure / env files
+.env
+*.publishsettings
+
+# Logs
+*.log
+
+# OS junk
+Thumbs.db
+.DS_Store

@@ -1,0 +1,7 @@
+azure-eventhub==5.11.7
+azure-cosmos==4.7.0
+python-dotenv==1.0.1
+numpy==1.26.4
+faker==24.11.0
+asyncio==3.4.3
+
